@@ -24,7 +24,7 @@ class Formularios {
                     <input id="name" type="text" name="dni" placeholder="Dni *" autofocus  ' . $size . '' . $style_border . '>
                     <input id="dni" type="password" name="pass" placeholder="Password *" autofocus  ' . $size . '' . $style_border . '>
                 </div>
-                <input type="submit" name="sub_session" onclick="session(); session_profile();" Value="Sing in" ' . $style_border . '>
+                <input type="submit" name="sub_session" onclick="session(); session_profile();" Value="Sign in" ' . $style_border . '>
             </form>
 
             <div><label>* Acceso con DNI y clave de acceso. Si no dispone de una, consulte con su Banco Verde.</label></div>
