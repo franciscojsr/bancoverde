@@ -13,7 +13,7 @@ class Formularios {
         ';
 
         // Se usa
-        //          javascript:void(0);
+        //        javascript:void(0);
         // para que no redirija el formulario, y se usa ajax para obtener valores para pasar a php
         // Al usar ajax seran accesibles los valores del form en php, sin necesidad de enviar el formulario mediante action
         $this->form = '
